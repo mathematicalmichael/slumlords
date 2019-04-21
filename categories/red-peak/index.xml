@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>red peak on Denver Slumlords</title>
-    <link>mathematicalmichael.github.io/slumlords/categories/red-peak/</link>
+    <link>https://mathematicalmichael.github.io/slumlords/categories/red-peak/</link>
     <description>Recent content in red peak on Denver Slumlords</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="mathematicalmichael.github.io/slumlords/categories/red-peak/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mathematicalmichael.github.io/slumlords/categories/red-peak/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>mathematicalmichael.github.io/slumlords/test/</link>
+      <link>https://mathematicalmichael.github.io/slumlords/test/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>mathematicalmichael.github.io/slumlords/test/</guid>
+      <guid>https://mathematicalmichael.github.io/slumlords/test/</guid>
       <description></description>
     </item>
     
