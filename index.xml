@@ -1,44 +1,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Denver Slumlords on Denver Slumlords</title>
-    <link>/</link>
+    <link>mathematicalmichael.github.io/slumlords/</link>
     <description>Recent content in Denver Slumlords on Denver Slumlords</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="mathematicalmichael.github.io/slumlords/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Explore</title>
-      <link>/explore/</link>
+      <link>mathematicalmichael.github.io/slumlords/explore/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/explore/</guid>
+      <guid>mathematicalmichael.github.io/slumlords/explore/</guid>
       <description>&lt;p&gt;&lt;center&gt;
-&lt;h2&gt;&lt;a href=&#34;/categories&#34;&gt;Companies&lt;/a&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&#34;/categories&#34;&gt;Neighborhoods&lt;/a&gt;&lt;/h2&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&#34;mathematicalmichael.github.io/slumlords/categories&#34;&gt;Companies&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&#34;mathematicalmichael.github.io/slumlords/categories&#34;&gt;Neighborhoods&lt;/a&gt;&lt;/h2&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;h2&gt;&lt;a href=&#34;/tags&#34;&gt;Tags&lt;/a&gt;&lt;/h2&gt;
-&lt;h2&gt;&lt;a href=&#34;/categories&#34;&gt;Categories&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;h2&gt;&lt;a href=&#34;mathematicalmichael.github.io/slumlords/tags&#34;&gt;Tags&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&#34;mathematicalmichael.github.io/slumlords/categories&#34;&gt;Categories&lt;/a&gt;&lt;/h2&gt;
 &lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Test Post</title>
-      <link>/test/</link>
+      <link>mathematicalmichael.github.io/slumlords/test/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>/test/</guid>
+      <guid>mathematicalmichael.github.io/slumlords/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>mathematicalmichael.github.io/slumlords/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>mathematicalmichael.github.io/slumlords/about/</guid>
       <description>&lt;p&gt;Mission Statement, context about Denver real estate, who are we? FAQ.&lt;/p&gt;
 </description>
     </item>
