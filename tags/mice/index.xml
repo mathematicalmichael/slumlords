@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Denver Slumlords</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Denver Slumlords</description>
+    <title>mice on Denver Slumlords</title>
+    <link>/tags/mice/</link>
+    <description>Recent content in mice on Denver Slumlords</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/mice/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
