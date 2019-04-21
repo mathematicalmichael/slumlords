@@ -16,17 +16,17 @@
     {{ with $.Site.GetPage "taxonomy" (printf "%s/%s" $type $term) }}
          <div class="card-item">
            <div class="categories" >
-             <a href="{{ .URL }}"><h3> <i class="iconfont icon-folder" style="padding-right: 3px"></i> {{ $term | humanize}}  </h3> </a>
-               {{ range first 5 $pages }}   
+             <a href="{{ .URL }}"><h2> <i class="iconfont icon-folder" style="padding-right: 3px"></i> {{ $term | humanize | title }}  </h2> </a>
+               <!-- {{ range first 3 $pages }}   
                 <article class="archive-item">
                 <a href="{{ .URL }}" class="archive-item-link">{{ .Title }}</a>
                 </article>
-              {{ end }}
-               {{ if gt (len $pages) 5 }}
+              {{ end }} -->
+               <!-- {{ if gt (len $pages) 5 }}
                   <span class="more-post">
                     <a href="{{ .Permalink }}" class="more-post-link">{{ i18n "More" }}  >></a>
                </span> 
-               {{ end }}
+               {{ end }} -->
            </div>
         </div>
     {{ end }}
