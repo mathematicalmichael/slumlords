@@ -9,6 +9,22 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Explore</title>
+      <link>/explore/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/explore/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;h2&gt;&lt;a href=&#34;/categories&#34;&gt;Companies&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&#34;/categories&#34;&gt;Neighborhoods&lt;/a&gt;&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;&lt;a href=&#34;/tags&#34;&gt;Tags&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&#34;/categories&#34;&gt;Categories&lt;/a&gt;&lt;/h2&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Test Post</title>
       <link>/test/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
