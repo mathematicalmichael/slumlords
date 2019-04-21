@@ -16,4 +16,5 @@ rm -r .public
 git push origin gh-pages
 git checkout master
 git stash pop
+echo "Website pushed live."
 
