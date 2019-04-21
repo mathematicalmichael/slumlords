@@ -24,19 +24,29 @@ disqusShortname = ""
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "Latest"
     url = "/posts/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
     weight = 3
+
+  # [[menu.main]]
+  #   name = "Lords"
+  #   url = "/categories/"
+  #   weight = 2
 
   [[menu.main]]
     name = "About"
     url = "/about"
     weight = 1
+
+  [[menu.main]]
+    name = "Explore"
+    url = "/explore"
+    weight = 2
+
+  [[menu.main]]
+    name = "Submit"
+    url = "/submit"
+    weight = 5
 
 [params]
     since = 2018
@@ -46,7 +56,7 @@ disqusShortname = ""
             We want to hear them.
             """       # Subtitle
     cdn_url = ""           # Base CDN URL
-
+    home_mode = ""
     dateFormatToUse = "2006-01-02"
 
     google_verification = ""
