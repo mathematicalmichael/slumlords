@@ -1,14 +1,13 @@
 baseURL = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Denver Slumlords"
 theme = "KeepIt"
-
 paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
-disqusShortname = "yourdiscussshortname"
+disqusShortname = ""
 
 [sitemap]
   changefreq = "monthly"
@@ -21,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
   noreferrerLinks = true
 
 [Permalinks]
- posts = "/:year/:filename/"
+ posts = "/:filename/"
 
 [menu]
   [[menu.main]]
@@ -37,14 +36,18 @@ disqusShortname = "yourdiscussshortname"
   [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 4
+    weight = 1
 
 [params]
-    since = 2012
-    author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    since = 2018
+    author = "Mind the Math LLC"               # Author's name
+    subtitle = """
+            Denver renter with complaints?
+            We want to hear them.
+            """       # Subtitle
     cdn_url = ""           # Base CDN URL
-    home_mode = "" # post or other
+
+    dateFormatToUse = "2006-01-02"
 
     google_verification = ""
     bing_verification = ""
@@ -55,22 +58,21 @@ disqusShortname = "yourdiscussshortname"
     avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     socialShare = true
     
-    description = "" # site description
-    keywords = "" # site keywords
-
-    license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    description = "Your one-stop shop for all Denver Real-Estate-related complaints." # site description
+    keywords = "Denver, Rent, Lease, Real-Estate, Complaints" # site keywords
+    license= ''
 
 [params.gravatar]
     #email = "example@gmail.com"   #uncomment and insert your email address to use gravatar
 
 
 [params.social]
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
-    #Instagram = "xxxx"
-    #Email   = "xxxx"
-    Facebook = "xxxx"
+    # GitHub = "xxxx"
+    # Linkedin = "xxxx"
+    # Twitter = "xxxx"
+    Instagram = "xxxx"
+    Email   = "xxxx"
+    # Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -126,10 +128,10 @@ disqusShortname = "yourdiscussshortname"
 [params.share]
 Twitter = true
 Facebook = true
-#Reddit = true
-Linkedin = true
+Reddit = true
+# Linkedin = true
 #Pinterest = true
-#HackerNews = true
+# HackerNews = true
 #Mix = true
 #Tumblr = true
 #VKontakte = true
@@ -140,10 +142,10 @@ Linkedin = true
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = ""
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "Mind the Math"
 
     [params.publisher.logo]
       url = "logo.png"
