@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>roaches on Denver Slumlords</title>
-    <link>https://mathematicalmichael.github.io/slumlords/tags/roaches/</link>
+    <link>/tags/roaches/</link>
     <description>Recent content in roaches on Denver Slumlords</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mathematicalmichael.github.io/slumlords/tags/roaches/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/roaches/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post</title>
-      <link>https://mathematicalmichael.github.io/slumlords/test/</link>
+      <link>/test/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.github.io/slumlords/test/</guid>
+      <guid>/test/</guid>
       <description></description>
     </item>
     

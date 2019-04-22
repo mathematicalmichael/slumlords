@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Denver Slumlords</title>
-    <link>https://mathematicalmichael.github.io/slumlords/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Denver Slumlords</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mathematicalmichael.github.io/slumlords/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>construction</title>
-      <link>https://mathematicalmichael.github.io/slumlords/tags/construction/</link>
+      <link>/tags/construction/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.github.io/slumlords/tags/construction/</guid>
+      <guid>/tags/construction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lead</title>
-      <link>https://mathematicalmichael.github.io/slumlords/tags/lead/</link>
+      <link>/tags/lead/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.github.io/slumlords/tags/lead/</guid>
+      <guid>/tags/lead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mice</title>
-      <link>https://mathematicalmichael.github.io/slumlords/tags/mice/</link>
+      <link>/tags/mice/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.github.io/slumlords/tags/mice/</guid>
+      <guid>/tags/mice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>noise</title>
-      <link>https://mathematicalmichael.github.io/slumlords/tags/noise/</link>
+      <link>/tags/noise/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.github.io/slumlords/tags/noise/</guid>
+      <guid>/tags/noise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>roaches</title>
-      <link>https://mathematicalmichael.github.io/slumlords/tags/roaches/</link>
+      <link>/tags/roaches/</link>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mathematicalmichael.github.io/slumlords/tags/roaches/</guid>
+      <guid>/tags/roaches/</guid>
       <description></description>
     </item>
     
