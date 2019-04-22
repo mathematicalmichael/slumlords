@@ -3,10 +3,10 @@ hugo
 git stash
 git checkout gh-pages
 # pull remote changes to avoid conflicts
-git pull
+git pull origin gh-pages
+mv CNAME public/CNAME
 # hide public 
 mv public .public
-mv CNAME .public/CNAME
 # remove ignores hidden files
 rm -r *
 # unpack hidden public
