@@ -6,7 +6,7 @@ git checkout gh-pages
 git pull
 # hide public 
 mv public .public
-mv CNAME .CNAME
+mv CNAME .public/CNAME
 # remove ignores hidden files
 rm -r *
 # unpack hidden public
@@ -16,7 +16,6 @@ git add *
 # auto-commit them
 git commit -am 'new pages auto-build.'
 rm -r .public
-mv .CNAME CNAME
 git push origin gh-pages
 git checkout master
 git stash pop
